@@ -1,0 +1,9 @@
+{
+  "name": "FORRO 2.0",
+  "description": "Seu consultor de IA para cálculo de materiais para forros e andaimes.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
